@@ -1,0 +1,173 @@
+#logoPrincipal{
+    height: 50px;
+    width: 50px;
+}
+
+#logoPrincipal:hover {
+    cursor: pointer;
+}
+
+.navbar-brand {
+    font-size: 16px;
+}
+
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,0.896796218487395) 100%, rgba(0,212,255,1) 100%);
+    color:white;
+}
+.contact{
+    padding: 4%;
+    height: 400px;
+}
+.col-md-3{
+    background: #292929;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+.contact-info{
+    margin-top:10%;
+}
+.contact-info img{
+    margin-bottom: 15%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+    background: #fff;
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+    font-weight:600;
+}
+.contact-form button{
+    background: #292929;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+.contact-form button:focus{
+    box-shadow:none;
+}
+label{
+    color:black;
+    font-size:15px;
+}
+.bg-grey {
+    background: #292929;
+}
+
+.logo-footer {
+    margin-bottom: 40px;
+}
+
+footer {
+    color: grey;
+    font-family: 'Signika', sans-serif;
+    font-size: 12px;
+    bottom:0px;
+    position: relative;
+
+}
+
+footer p,
+a {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer h6 {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+footer h6:after {
+    position: absolute;
+    content: "";
+    background: grey;
+    width: 12%;
+    height: 1px;
+    left: 0;
+    bottom: -20px;
+}
+
+.btn-footer {
+    color: grey;
+
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 43px;
+    font-size: 13px;
+    padding: 7px 30px;
+    line-height: 47px;
+}
+
+.btn-footer:hover {
+
+    text-decoration: none;
+
+}
+
+.form-footer input[type="text"] {
+    border: none;
+    border-radius: 16px 0 0 16px;
+    outline: none;
+    padding-left: 10px;
+
+}
+
+.placeFooter {
+    font-size: 10px;
+    padding-left: 10px;
+    font-style: italic;
+}
+
+.form-footer input[type="button"] {
+    border: none;
+    background: #232323;
+    margin-left: -5px;
+    color: #fff;
+    outline: none;
+    border-radius: 0 16px 16px 0;
+    padding: 2px 12px;
+}
+
+.social .fa {
+    color: grey;
+    font-size: 22px;
+    padding: 10px 15px;
+    background: #3c3c3c;
+}
+
+footer ul li {
+    list-style: none;
+    display: block;
+}
+
+footer ul {
+    padding-left: 0;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.logo-part {
+    border-right: 1px solid grey;
+    height: 100%;
+
+}
+#perfil{
+    padding-top:85px;
+    width:92%;
+    height:auto;
+}

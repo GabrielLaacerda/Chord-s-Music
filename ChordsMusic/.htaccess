@@ -1,0 +1,7 @@
+
+# HTID:17769033: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+DirectoryIndex View/index.php
+php_flag session.auto_start on
+php_flag output_buffering on
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17769033:

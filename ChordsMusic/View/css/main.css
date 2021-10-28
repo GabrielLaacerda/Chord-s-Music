@@ -1,0 +1,200 @@
+body{
+    padding-top:62px;
+}
+#logoPrincipal{
+    height: 50px;
+    width: 50px;
+}
+
+#logoPrincipal:hover {
+    cursor: pointer;
+}
+
+.navbar-brand {
+    font-size: 16px;
+}
+
+.bi-person-circle:hover {
+    cursor: pointer;
+}
+
+#capadvd {
+    height: 256px;
+    width: 256px;
+}
+
+.d-block {
+    height: 585px;
+}
+
+
+#logoPrincipal {
+    height: 50px;
+    width: 50px;
+}
+
+#logoPrincipal:hover {
+    cursor: pointer;
+}
+
+.navbar-brand {
+    font-size: 16px;
+}
+
+
+.bi-person-circle:hover {
+    cursor: pointer;
+}
+
+#capadvd {
+    height: 256px;
+    width: 100%;
+}
+
+.d-block {
+    height: 585px;
+}
+
+.font-monospace {
+    font-size: 25px;
+    margin-left: 18px;
+}
+
+.novidades {
+    font-size: 25px;
+    font-family: monospace;
+    margin-left:40px;
+    width:40%;
+}
+#containermain{
+    width:96%;
+}
+.maisAcessadas{
+    font-family: monospace;
+    font-size: 25px;
+    margin-left:30px;
+    width:40%;
+
+}
+.card>img{
+    cursor:pointer;
+}
+.bg-grey {
+    background: #292929;
+}
+
+.logo-footer {
+    margin-bottom: 40px;
+}
+
+footer {
+    color: grey;
+    font-family: 'Signika', sans-serif;
+    font-size: 12px;
+}
+
+footer p,
+a {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer h6 {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+footer h6:after {
+    position: absolute;
+    content: "";
+    background: grey;
+    width: 12%;
+    height: 1px;
+    left: 0;
+    bottom: -20px;
+}
+
+.btn-footer {
+    color: grey;
+
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 43px;
+    font-size: 13px;
+    padding: 7px 30px;
+    line-height: 47px;
+}
+
+.btn-footer:hover {
+
+    text-decoration: none;
+
+}
+
+.form-footer input[type="text"] {
+    border: none;
+    border-radius: 16px 0 0 16px;
+    outline: none;
+    padding-left: 10px;
+
+}
+
+.placeFooter {
+    font-size: 10px;
+    padding-left: 10px;
+    font-style: italic;
+}
+
+.form-footer input[type="button"] {
+    border: none;
+    background: #232323;
+    margin-left: -5px;
+    color: #fff;
+    outline: none;
+    border-radius: 0 16px 16px 0;
+    padding: 2px 12px;
+}
+
+.social .fa {
+    color: grey;
+    font-size: 22px;
+    padding: 10px 15px;
+    background: #3c3c3c;
+}
+
+footer ul li {
+    list-style: none;
+    display: block;
+}
+
+footer ul {
+    padding-left: 0;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.logo-part {
+    border-right: 1px solid grey;
+    height: 100%;
+}
+#divMusica{
+    width:96%;
+    margin:0 auto;
+    margin-top:6px;
+}
+.list-group-item:hover{
+    background-color: #292929;
+    color:white;
+}
+.dropdown-item:hover{
+    background-color: #292929;
+    color:white;
+}

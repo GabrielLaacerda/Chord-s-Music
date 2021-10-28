@@ -1,0 +1,257 @@
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,0.896796218487395) 100%, rgba(0,212,255,1) 100%);
+}
+#logoPrincipal{
+    height: 50px;
+    width: 50px;
+}
+
+#logoPrincipal:hover {
+    cursor: pointer;
+}
+
+.navbar-brand {
+    font-size: 16px;
+}
+
+.emp-profile{
+    padding: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border-radius: 0.5rem;
+    background: #fff;
+}
+.profile-img{
+    text-align: center;
+}
+.profile-img img{
+    width: 70%;
+    height: 100%;
+}
+.profile-img .file {
+    position: relative;
+    overflow: hidden;
+    margin-top: -20%;
+    width: 70%;
+    border: none;
+    border-radius: 0;
+    font-size: 15px;
+    background: #212529b8;
+}
+.profile-img .file input {
+    position: absolute;
+    opacity: 0;
+    right: 0;
+    top: 0;
+}
+.profile-head h5{
+    color: #333;
+}
+.profile-head h6{
+    color: #0062cc;
+}
+.profile-edit-btn{
+    border: none;
+    border-radius: 1.5rem;
+    width: 70%;
+    padding: 2%;
+    font-weight: 600;
+    color: #6c757d;
+    cursor: pointer;
+}
+.proile-rating{
+    font-size: 12px;
+    color: #818182;
+    margin-top: 5%;
+}
+.proile-rating span{
+    color: #495057;
+    font-size: 15px;
+    font-weight: 600;
+}
+.profile-head .nav-tabs{
+    margin-bottom:5%;
+}
+.profile-head .nav-tabs .nav-link{
+    font-weight:600;
+    border: none;
+}
+.profile-head .nav-tabs .nav-link.active{
+    border: none;
+    border-bottom:2px solid #0062cc;
+}
+.profile-work{
+    padding: 14%;
+    margin-top: -15%;
+}
+.profile-work p{
+    font-size: 12px;
+    color: #818182;
+    font-weight: 600;
+    margin-top: 10%;
+}
+.profile-work a{
+    text-decoration: none;
+    color: #495057;
+    font-weight: 600;
+    font-size: 14px;
+}
+.profile-work ul{
+    list-style: none;
+}
+.profile-tab label{
+    font-weight: 600;
+}
+.profile-tab p{
+    font-weight: 600;
+    color: #0062cc;
+}
+.bg-grey {
+    background: #292929;
+}
+
+.logo-footer {
+    margin-bottom: 40px;
+}
+
+footer {
+    color: grey;
+    font-family: 'Signika', sans-serif;
+    font-size: 12px;
+    bottom:0px;
+    position:sticky;
+
+}
+
+footer p,
+a {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer h6 {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+footer h6:after {
+    position: absolute;
+    content: "";
+    background: grey;
+    width: 12%;
+    height: 1px;
+    left: 0;
+    bottom: -20px;
+}
+
+.btn-footer {
+    color: grey;
+
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 43px;
+    font-size: 13px;
+    padding: 7px 30px;
+    line-height: 47px;
+}
+
+.btn-footer:hover {
+
+    text-decoration: none;
+
+}
+
+.form-footer input[type="text"] {
+    border: none;
+    border-radius: 16px 0 0 16px;
+    outline: none;
+    padding-left: 10px;
+
+}
+
+.placeFooter {
+    font-size: 10px;
+    padding-left: 10px;
+    font-style: italic;
+}
+
+.form-footer input[type="button"] {
+    border: none;
+    background: #232323;
+    margin-left: -5px;
+    color: #fff;
+    outline: none;
+    border-radius: 0 16px 16px 0;
+    padding: 2px 12px;
+}
+
+.social .fa {
+    color: grey;
+    font-size: 22px;
+    padding: 10px 15px;
+    background: #3c3c3c;
+}
+
+footer ul li {
+    list-style: none;
+    display: block;
+}
+
+footer ul {
+    padding-left: 0;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.logo-part {
+    border-right: 1px solid grey;
+    height: 100%;
+
+}
+#perfil{
+    width:92%;
+    height:auto;
+}
+#botaoedit{
+    border-radius:3px;
+    margin-top:1.8%;
+}
+#descperfil{
+    margin-top:-2%;
+}
+#modificar{
+    background-color:white;
+    height:auto;
+    width:92%;
+    border-radius:8px;
+    margin-top:36px;
+}
+#h31{
+    margin-left:10px;
+}
+.form-group{
+    margin:0 auto;
+    width:98%;
+}
+#enviar{
+    margin-left:1%;
+    width:90px;
+}
+#cancelar{
+    width:90px;
+}
+#excluir{
+    width:auto;
+}
+#image{
+    width:60%;
+
+}
