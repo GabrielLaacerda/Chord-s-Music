@@ -2,6 +2,15 @@
 
 Uma aplicação WEB voltada para o aprendizado de violão por meio de cifras.
 
+## 🛠 Construído com
+- Javascript
+- HTML
+- CSS
+- Bootstrap
+- MySQL
+- PHP
+
+- ## Screenshots
 
 ![Captura de tela_2023-01-14_15-32-53](https://user-images.githubusercontent.com/79861755/212490641-a5854d95-7a98-41bb-b5d5-e1c4cdc1620b.png)
 
